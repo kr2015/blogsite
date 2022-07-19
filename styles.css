@@ -1,0 +1,33 @@
+:root{
+  --background : rgba(188,56,46,255);
+  --background-light : rgba(248,249,250,255);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.411);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none ;
+} 
+
+li a:hover{
+  color: aliceblue;
+  background-color: rgb(130, 130, 186);
+}
+
+.content-A{
+      margin-top: 10rem;
+}
