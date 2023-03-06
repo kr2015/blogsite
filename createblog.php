@@ -156,7 +156,6 @@
     </section>
     <br>
     <br>
-    <h6 style="text-align:center;">Priyansh Jha 2021.</h6>
 
     <!--External JavaScript file-->
     <script src="home.js"></script>
